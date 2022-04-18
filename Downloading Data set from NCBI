@@ -1,0 +1,9 @@
+firtsly we have to download the DNA code from NCBI.
+For this project i'm using NM_207618.2 
+
+How to Downlaod from NCBI:
+Step-1 Go to https://www.ncbi.nlm.nih.gov/
+
+Step-2 Search for the DNA in nucleotide database, you wish to transltae in our case NM_207618.2
+Step-3 After search you'll get on the the page with details on the DNA code. click on FASTA on the page and you'll get the DNA code.
+Step-4 Copy that code and save it in a txt file which we'll be using as a input to our python program.
